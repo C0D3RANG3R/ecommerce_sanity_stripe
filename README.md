@@ -1,4 +1,5 @@
-You can see a live demo at **https://nextjs-starter.now.sh**
+You can see a live demo at **https://ecommerce-sanity-stripe-beige.vercel.app** 
+
 Next.js is a framework that makes it easy to create 'universal' React apps - React apps that do both client and server side rendering.
 
 ## About 
